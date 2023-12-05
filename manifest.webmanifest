@@ -1,0 +1,32 @@
+{
+    "theme_color": "#FF7F50",
+    "background_color": "#FF7F50",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "hellopwa",
+    "short_name": "hipwa",
+    "description": "Simple pwa",
+    "icons": [
+        {
+            "src": "/para.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/pomm.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/pubg.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/fly.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ]
+}
